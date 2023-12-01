@@ -3,9 +3,13 @@
 int main(void)
 {
 	printf("xxxxxx\n");
-	fdsaf;fsadf;fdasfsad;dasds;fdsaf;dsaf;
+
+	printf("hello world\n");
+	printf("niumo\n");
 
 
-	printf("666666666"\n);
+
+
+	printf("666666666\n");
 
 }
